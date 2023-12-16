@@ -1,0 +1,23 @@
+/* body element for the apply font-size and font-family in page */
+body{
+    font-size: 16px;
+    font-family: Helvetica;
+}
+/* In div element applying font-style-  */
+div{
+    font-style: italic;
+}
+span{
+    font-weight: bold;
+}
+h1{
+    font-size: 30pt;
+}
+h2{
+    font-style: italic;
+    font-family: Helvetica;
+}
+p{
+font-size: 1.5em;
+font-family: "Lucida Console";
+}
